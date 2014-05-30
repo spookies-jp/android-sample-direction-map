@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orienteering</string>
+    <string name="api_key">0fAQQkkL3KcHP7jVFGRUV9eH8UPNUPcuk7ko72w</string>
+    <string name="csv_error">CSVファイルの形式エラー</string>
+</resources>
